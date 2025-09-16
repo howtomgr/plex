@@ -1,0 +1,61 @@
+{
+  "category": "media-servers",
+  "created_date": "2025-09-15T22:48:58.700393",
+  "default_ports": [
+    80,
+    443,
+    32400
+  ],
+  "dependencies": [],
+  "description": "plex is a free and open-source media server for streaming. Plex organizes media and streams to devices, though the server is proprietary with some FOSS clients available",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/media-servers/plex",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/media-servers/plex",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.700419",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "plex",
+  "repository_url": "https://github.com/howtomgr/plex",
+  "spec_version": "2.0",
+  "subcategory": "media-servers",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "media-servers",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "plex Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/media-servers/plex"
+}
